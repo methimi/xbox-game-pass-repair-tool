@@ -81,13 +81,6 @@ A full step-by-step video guide is available on YouTube:
 
 ---
 
-## 🌍 Languages
-
-- English (default)
-- Turkish (documentation & subtitles)
-
----
-
 ## 📈 SEO Keywords (for discoverability)
 
 xbox game pass error 0x80070426
