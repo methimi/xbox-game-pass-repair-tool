@@ -18,19 +18,6 @@ This tool is designed to diagnose and repair common Xbox Game Pass, Xbox App, Ga
 
 ---
 
-## 🛠️ Supported Errors (Examples)
-
-- 0x80070426
-- 0x803F8001
-- 0x87E0000F
-- Gaming Services not installing
-- Xbox App not working
-- Microsoft Store Xbox errors
-
-> More error codes are added based on user feedback.
-
----
-
 ## 📥 Download
 
 ➡ **Latest Release:**
@@ -53,26 +40,6 @@ No manual commands. No PowerShell knowledge required.
 
 ---
 
-## 🖥️ System Requirements
-
-- Windows 10 (64-bit)
-- Windows 11 (64-bit)
-- Administrator privileges
-- Internet connection (for service validation only)
-
----
-
-## 🔒 Security & Transparency
-
-- ❌ No background processes
-- ❌ No crypto miners
-- ❌ No data collection
-- ✔ Clean executable
-
-You can verify the file using **VirusTotal** before running it.
-
----
-
 ## 🎥 Video Tutorial
 
 A full step-by-step video guide is available on YouTube:
@@ -90,24 +57,6 @@ xbox game pass error codes
 xbox gaming services error
 xbox app windows 11
 microsoft store xbox error
-
----
-
-## 🤝 Contributing
-
-If you encounter a new Xbox Game Pass error code:
-
-1. Open an **Issue**
-2. Include the error code and Windows version
-3. Logs are optional but helpful
-
----
-
-## 📜 Disclaimer
-
-This project is not affiliated with or endorsed by Microsoft or Xbox.
-
-Xbox, Xbox Game Pass, and Microsoft are trademarks of Microsoft Corporation.
 
 ---
 
