@@ -56,6 +56,17 @@ A full step-by-step video guide is available on YouTube:
 
 ---
 
+## 🧩 Supported Xbox Game Pass Errors
+
+- 0x80070426
+- 0x80073D21
+- 0x803F8001
+- Gaming Services not starting
+- Xbox App not opening
+- Microsoft Store errors
+
+---
+
 ### 🛡️ VirusTotal Scan
 This release has been scanned with VirusTotal.
 
