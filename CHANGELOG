@@ -1,7 +1,24 @@
 # Changelog
 
-## v1.0.0
-- Improved fix for Error 0x80070426
-- Better Gaming Services repair
-- Windows 11 compatibility updates
+All notable changes to this project are documented in this file.
 
+This project follows a simple versioning scheme based on year updates.
+
+---
+
+## [2026.1] – 2026-01
+
+### Fixed
+- Improved repair for Xbox Game Pass Error 0x80070426
+- Fixed Gaming Services not starting issue
+- Fixed Xbox App not opening on Windows 10 and Windows 11
+- Resolved common Microsoft Store related errors
+
+### Improved
+- Better detection of broken Xbox services
+- Faster automatic repair process
+- Improved compatibility with latest Windows updates
+
+### Notes
+- Recommended for all users experiencing Xbox Game Pass errors
+- Fully compatible with Windows 10 & Windows 11
