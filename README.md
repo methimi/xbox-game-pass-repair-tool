@@ -4,7 +4,7 @@
 - 🇧🇷 [Versão em Português (README_PT_BR)](README_PT_BR.md)
 - 🇹🇷 [Türkçe Sürüm (README_TR)](README_TR.md)
 
-# Xbox Game Pass Repair Tool (2026)
+# Xbox Game Pass Error Fix Tool for Windows (2026)
 
 Fix **Xbox Game Pass Error 0x80070426** and **ALL other Xbox Game Pass error codes** automatically on **Windows 10 & Windows 11**.
 
@@ -28,7 +28,7 @@ This tool is designed to diagnose and repair common Xbox Game Pass, Xbox App, Ga
 
 ➡ **Latest Release:**
 
-👉 [Xbox Game Pass Fixer](https://github.com/methimi/xbox-game-pass-repair-tool/releases)
+👉 [Xbox Game Pass Fixer](https://github.com/methimi/xbox-game-pass-error-fix/releases)
 
 
 
